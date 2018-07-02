@@ -1,3 +1,13 @@
+  
+[
+    {
+      "id": "spqr",
+        "name": "spqr",
+        "fullName": "Senatus Populusque Romanus",
+        "tags": [
+            ".spqr*"
+        ],
+        "logo": "https://user-images.githubusercontent.com/16074168/42157910-da28785e-7de6-11e8-9753-d598e106c721.jpg"  
 [
     {
         "id": "woop",
