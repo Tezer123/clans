@@ -36,3 +36,9 @@
 - nickname_effective_from_date: 16/11/2018
   user_id: faker
   new_nickname: "Faker"
+- nickname_effective_from_date: 01/10/2018
+  user_id: wolf
+  new_nickname: "|oNe|Wolf"
+- nickname_effective_from_date: 18/12/2018
+  user_id: insane
+  new_nickname: "ZZ|insane"
